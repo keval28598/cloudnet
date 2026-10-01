@@ -1,0 +1,9 @@
+# Local Terraform directories and binaries
+.terraform/
+
+# Sensitive SSH Keys
+cloudnet_key
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
